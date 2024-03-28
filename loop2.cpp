@@ -5,3 +5,4 @@
                 cout<<i <<"\n";      
               }       
         }   
+//this is my second loop problem of cpp
